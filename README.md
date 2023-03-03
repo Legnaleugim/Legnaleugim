@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Legnaleugim,
-I'm a 19 years old student from **Venezuela** 🇻🇪. Currently learning programming, aspiring to be a **full-stack web developer**.
+I'm a 19 year old student from **Venezuela** 🇻🇪. Currently learning programming, aspiring to be a **full-stack web developer**.
 
 ---
 
