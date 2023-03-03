@@ -17,7 +17,7 @@ I'm a 19 years old student from **Venezuela** 🇻🇪. Currently learning progr
 | `rm`      | Removes specified file               |
 | `mkdir`   | Makes a new directory                |
 
-## Useful alias:
+## Useful aliases:
 
 | Alias                                         | Description                          |
 | -------                                       | ------------------------------------ | 
