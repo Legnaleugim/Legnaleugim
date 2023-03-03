@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello, I'm Legnaleugim,
+I'm a 19 years old student from **Venezuela** 🇻🇪. Currently learning programming, aspiring to be a **full-stack web developer**.
 
-<!--
-**Legnaleugim/Legnaleugim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📚 Technologies I'm currentrly learning:
+ ![](https://imgur.com/iwnosd0.png)![](https://imgur.com/Bx1AIqi.png)![](https://imgur.com/E8CS0gW.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Commands I learned:
+
+| Command   | Description                          |
+| -------   | ------------------------------------ | 
+| `pwd`     | Shows current directory              |
+| `cd`      | Changes current directory            |
+| `ls`      | Lists files in the current directory |
+| `rm`      | Removes specified file               |
+| `mkdir`   | Makes a new directory                |
+
+## Useful alias:
+
+| Alias                                         | Description                          |
+| -------                                       | ------------------------------------ | 
+| `alias gc='git commit -m'`                    | `gc "message"` Makes a git commit    |
+| `alias lt='ls --human-readable --size -1 -S'` | `lt` Sorts files by size             |
